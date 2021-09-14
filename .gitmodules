@@ -1,0 +1,6 @@
+[submodule "HideSeek-Client"]
+	path = HideSeek-Client
+	url = https://github.com/YarikRevich/HideSeek-Client.git
+[submodule "HideSeek-Server"]
+	path = HideSeek-Server
+	url = https://github.com/YarikRevich/HideSeek-Server.git
