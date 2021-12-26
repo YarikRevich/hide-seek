@@ -1,6 +1,7 @@
 .PHONY: help build install
 
 build:
+	@git submodule update --init --recursive --remote
 	@bazel build //...;
 	
 install:
