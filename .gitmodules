@@ -1,9 +1,9 @@
+[submodule "hide-seek-client"]
+	path = hide-seek-client
+	url = https://github.com/YarikRevich/hide-seek-client.git
 [submodule "hide-seek-server"]
 	path = hide-seek-server
 	url = https://github.com/YarikRevich/hide-seek-server.git
 [submodule "hide-seek-services"]
 	path = hide-seek-services
 	url = https://github.com/YarikRevich/hide-seek-services.git
-[submodule "hide-seek-client"]
-	path = hide-seek-client
-	url = https://github.com/YarikRevich/hide-seek-client.git
