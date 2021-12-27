@@ -18,7 +18,7 @@ Requirenments:
 
 ---
 
-In order to provide innstallation, install `GNU make` via *apt* or *brew*
+
 
 Go to the root path for the game and run
 
